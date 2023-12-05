@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Website</title>
+    <link rel="stylesheet" href="styl.css">
+</head>
+<body>
+
+
+    <header>
+        <h1>Personal Website</h1>
+        <p>Network Engginer </p>
+    </header>
+
+        <nav class="navbar">
+        <a href="Personal Website">Home</a>
+        <a href="About.html">about</a>
+        <a href="Video.htm">Video</a>
+        <a href="COntact.htm">contact</a>
+    </nav>
+
+    <section class="about">
+        <h2>About Me</h2>
+        <p>Hello My Name is Affan Faris Darmawan i was born in Bekasi and i study at IDN Boarding School Bogor</p>
+    </section>
+
+    <section class="contact">
+        <h2>Contact Me</h2>
+        <p><Email:>affanfaris2009@gmail.com </Email:></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Your Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>
